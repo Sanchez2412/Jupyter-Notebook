@@ -1,0 +1,12 @@
+## My Jupyter Notebook on IBM Watson Studio
+# 2 Daniel Sanchez Martinez
+# 3 * Estoy interesado en la Data Science porque es muy interesante
+# 4 * En estilo de encabezado H3
+1 + 1
+import matplotlib.pyplot as plt
+
+x = [1,2,3,4,5]
+y = [1,4,9,16,25]
+
+plt.plot(x, y)
+plt.show()
